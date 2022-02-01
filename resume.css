@@ -87,4 +87,12 @@ footer{
     position: fixed;
     width: 100%;
 }
-
+.footer {
+    background: blue;
+    height: 100px;
+    margin: auto;
+    width: 400px;
+    text-align:center;
+    padding:10px;
+    color:#ffffff;
+}
