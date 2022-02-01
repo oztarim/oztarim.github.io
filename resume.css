@@ -82,3 +82,6 @@ input[type=submit] {
 a:hover {
   background-color: brown;
 }
+#footer {
+    text-align: center;
+}
